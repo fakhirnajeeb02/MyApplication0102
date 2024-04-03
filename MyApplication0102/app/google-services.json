@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "494023047868",
+    "firebase_url": "https://fakhirnajeebapp1-default-rtdb.firebaseio.com",
+    "project_id": "fakhirnajeebapp1",
+    "storage_bucket": "fakhirnajeebapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494023047868:android:a6f2738e4b5a2a401beeb9",
+        "android_client_info": {
+          "package_name": "com.example.fakhirmyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gqcjKjJ00DU_d6rrWiIP0qNz2InwgEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494023047868:android:2a449f936e15c98f1beeb9",
+        "android_client_info": {
+          "package_name": "com.example.fakhirnajeebapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gqcjKjJ00DU_d6rrWiIP0qNz2InwgEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494023047868:android:4bb210b105c5a4ce1beeb9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication0102"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gqcjKjJ00DU_d6rrWiIP0qNz2InwgEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
